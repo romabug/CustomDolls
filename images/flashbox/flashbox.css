@@ -1,0 +1,64 @@
+ 
+ 
+ .clearfix:before, .clearfix:after { content: ""; display: table; }
+.clearfix:after { clear: both; }
+.clearfix { zoom: 1; }
+
+.container8 {
+	WIDTH: 535px;
+	HEIGHT: 180px;
+  overflow:hidden;
+}
+.container8 A IMG {
+	WIDTH: 535px;
+	HEIGHT: 180px;
+ overflow:hidden;
+	
+}
+.container8 IMG {
+ 
+}
+
+
+.td_f A IMG {
+ 
+}
+
+.num8 {
+	
+	POSITION: relative;
+	WIDTH: 90px;
+ 	TOP: 133px;
+	LEFT: 410px
+ 
+	
+}
+ 
+   
+
+
+.num8 LI {
+	TEXT-ALIGN: center;
+	LINE-HEIGHT: 15px;
+	LIST-STYLE-TYPE: none;
+	MARGIN: 3px;
+	WIDTH: 15px;
+	FONT-FAMILY: Arial;
+	BACKGROUND: url(/images/flashbox/flashbutton.gif) no-repeat -15px 0px;
+	FLOAT: left;
+	HEIGHT: 15px;
+	COLOR: #86a2b8;
+	FONT-SIZE: 12px;
+	CURSOR: pointer
+	
+ 
+	
+	
+}
+.num8 LI.on {
+	LINE-HEIGHT: 15px;
+	WIDTH: 15px;
+	BACKGROUND: url(/images/flashbox/flashbutton.gif) no-repeat;
+	HEIGHT: 15px;
+	COLOR: #ffffff
+}
